@@ -2,7 +2,7 @@
 
 Enunciado:
 - Crear una cuenta de github y un repositorio público para los trabajos individuales.
-- Instalar las herramientas necesarias y crear un programa en C que escriba como salida en un archivo de texto.
+- Instalar las herramientas necesarias, crear un programa en C que escriba como salida en un archivo de texto, compilarlo y ejecutarlo.
 
 Objetivos:
 - Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
