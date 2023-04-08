@@ -5,3 +5,7 @@
 - Apellido: Salas Vetre
 
 - Nombre: Gonzalo
+
+### Trabajos Prácticos
+
+[TP-0](./00-CHelloworld/)
