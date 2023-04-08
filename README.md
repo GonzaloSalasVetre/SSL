@@ -8,4 +8,4 @@
 
 ### Trabajos Prácticos
 
-[TP-0](./00-CHelloworld/)
+- [TP-0](./00-CHelloworld/)
